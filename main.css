@@ -4,7 +4,7 @@ h1 {
 .bold {
     font-weight: bold;
 }
-#copyright {
+#copyright, #copyright2 {
     font-size: 80%;
 }
 .image {
